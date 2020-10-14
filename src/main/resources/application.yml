@@ -1,0 +1,12 @@
+server:
+  port: 8003
+spring:
+  application:
+    name: rabbitmq
+  rabbitmq:
+    host: 172.30.61.251
+#    host: rabbitmq.amiintellect.com
+#    port: 5672
+#    username: 10000001_500923000A_02
+#    password: 10000001_500923000A_02
+#    virtual-host: /
