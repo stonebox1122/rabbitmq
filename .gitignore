@@ -6,7 +6,6 @@
 .idea
 *.iml
 */*.iml
-*.xml
 out
 gen
 target/
